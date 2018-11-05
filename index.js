@@ -16,5 +16,5 @@ function scuberGreetingForFeet(someValue) {
 
 function ternaryCheckCity(city) {
   let message
-  city === "NYC" ? message = 
+  message = city === "NYC" ? "message = "
 }
