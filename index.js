@@ -4,10 +4,12 @@ function scuberGreetingForFeet(someValue) {
   if (someValue > 0 && someValue <= 400) {
     message = "This one is on me!"
   }
-  else if (someValue > 400 && someValue <= 2000) {
+  else if (someValue > 2000 && someValue <= 2500) {
     message = "I will gladly take your thirdy bucks."
   }
-  else if (someValue > 2000)
+  else if (someValue > 2500) {
+    
+  }
     
   
   return message
