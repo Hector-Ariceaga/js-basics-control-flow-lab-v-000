@@ -5,7 +5,7 @@ function scuberGreetingForFeet(someValue) {
     message = "This one is on me!"
   }
   else if (someValue > 400 && someValue <= 2000) {
-    mes
+    message = "I will gladly take your "
   }
     
   
