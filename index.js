@@ -28,6 +28,8 @@ function switchOnCharmFromTip(tip) {
       break;
     case "not generous":
       message = "Thank you."
-      break;}
+      break;
+    default
+  }
   case 
 }
