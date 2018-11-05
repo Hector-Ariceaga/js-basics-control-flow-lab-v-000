@@ -13,3 +13,8 @@ function scuberGreetingForFeet(someValue) {
     
   return message
 }
+
+function ternaryCheckCity(city) {
+  let message
+  if city === ""
+}
